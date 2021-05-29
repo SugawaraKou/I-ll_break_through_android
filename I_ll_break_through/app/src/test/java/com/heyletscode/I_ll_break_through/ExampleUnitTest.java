@@ -1,4 +1,4 @@
-package com.heyletscode.ihavetofly;
+package com.heyletscode.I_ll_break_through;
 
 import org.junit.Test;
 

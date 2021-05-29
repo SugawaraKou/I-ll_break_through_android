@@ -1,4 +1,4 @@
-package com.heyletscode.ihavetofly;
+package com.heyletscode.I_ll_break_through;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.heyletscode.ihavetofly", appContext.getPackageName());
+        assertEquals("com.heyletscode.I_ll_break_through", appContext.getPackageName());
     }
 }
